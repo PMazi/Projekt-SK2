@@ -9,7 +9,7 @@ gcc gomoku_client.c -o gomoku_client
 
 Uruchomienie servera:
 
-**Skladnia uruchomienia serwera:
+**Składnia uruchomienia serwera:**
 ```sh
 ./gomoku_server <adres IP> <port>
 ```
